@@ -1,0 +1,17 @@
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\bin\Debug\net6.0-windows\VisualBasic.exe
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\bin\Debug\net6.0-windows\VisualBasic.deps.json
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\bin\Debug\net6.0-windows\VisualBasic.runtimeconfig.json
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\bin\Debug\net6.0-windows\VisualBasic.dll
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\bin\Debug\net6.0-windows\VisualBasic.pdb
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.vbproj.AssemblyReference.cache
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.Form1.resources
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.vbproj.GenerateResource.cache
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.AssemblyInfoInputs.cache
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.AssemblyInfo.vb
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.dll
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\refint\VisualBasic.dll
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.pdb
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\VisualBasic.genruntimeconfig.cache
+C:\Users\Yunsil\source\repos\VisualBasic\VisualBasic\obj\Debug\net6.0-windows\ref\VisualBasic.dll
